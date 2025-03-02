@@ -17,7 +17,7 @@ Este es un sistema de gestión para un supermercado desarrollado en **Java**, qu
 ## Tecnologías Utilizadas
 
 - **Lenguaje**: Java
-- 
+  
 ## Instalación y Uso
 
 1. **Clonar el repositorio**:
